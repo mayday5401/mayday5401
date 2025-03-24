@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on life projects
+- 🔭 I’m currently working on AI smart voice assistant
 - 🌱 I’m currently learning python, math
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...heheh
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about when will I start my work
 - 📫 How to reach me: just call my name!
 - 😄 Pronouns: Can I be an attacking Helicopter?
